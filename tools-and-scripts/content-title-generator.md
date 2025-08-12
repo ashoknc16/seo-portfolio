@@ -1,7 +1,5 @@
----
 layout: default
 title: Content Title Generator
----
 
 # 📝 Content Title Generator
 
