@@ -16,8 +16,9 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
   2015 – 2019
 
 ## 📂 Featured Case Studies
-- [B2C Business Traffic Growth](case-studies/b2b-saas/README.md) – 145% increase in organic sessions in 6 months.
-- [Reviving an Edu-Tech Website Post-Google Core Update](case-studies/local-service/README.md) – 20% month-over-month growth.
+
+[![B2C Business Traffic Growth](https://img.shields.io/badge/B2C%20Business%20Traffic%20Growth-0073e6?style=for-the-badge&logo=googleanalytics&logoColor=white)](case-studies/b2b-saas/README.md)
+[![Reviving an Edu-Tech Website Post-Google Core Update](https://img.shields.io/badge/Reviving%20an%20Edu--Tech%20Website%20Post--Google%20Core%20Update-28a745?style=for-the-badge&logo=googlesearchconsole&logoColor=white)](case-studies/local-service/README.md)
 
 ## 🧰 Tools & Scripts
 
