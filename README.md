@@ -23,7 +23,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 ## 🧰 Tools & Scripts
 
-[![Content Title Generator](https://img.shields.io/badge/-CONTENT%20TITLE%20GENERATOR-007ACC?style=for-the-badge&logo=minds&logoColor=white)](tools-and-scripts/content-title-generator.md)  
+[![Content Title Tool](https://img.shields.io/badge/-CONTENT%20TITLE%20GENERATOR-007ACC?style=for-the-badge&logo=minds&logoColor=white)](tools-and-scripts/content-title-generator.md)  
 
 [![Competitor URL Scraping Tool](https://img.shields.io/badge/-COMPETITOR%20URL%20SCRAPING%20TOOL-4CAF50?style=for-the-badge&logo=minds&logoColor=white)](tools-and-scripts/competitor-scraping-tool.md)  
 
