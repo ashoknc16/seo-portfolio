@@ -48,9 +48,12 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 ## 🧰 Tools & Scripts
 
-[<img src="https://img.icons8.com/color/48/000000/task.png" alt="Content Title Generator" width="30"/>](tools-and-scripts/content-title-generator.md)
-[<img src="https://img.icons8.com/color/48/000000/compare.png" alt="Competitor URL Scraping Tool" width="30"/>](tools-and-scripts/competitor-scraping-tool.md)
+[<img src="https://img.icons8.com/color/48/000000/task.png" alt="Content Title Generator" width="30"/>](tools-and-scripts/content-title-generator.md)  
+
+[<img src="https://img.icons8.com/color/48/000000/compare.png" alt="Competitor URL Scraping Tool" width="30"/>](tools-and-scripts/competitor-scraping-tool.md)  
+
 [<img src="https://img.icons8.com/color/48/000000/automation.png" alt="Google Ads Offline Conversion Automation" width="30"/>](tools-and-scripts/offline_conversion.md)
+
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/ashok-raj-v-/) • [Email](mailto:ashyvc@gmail.com)
