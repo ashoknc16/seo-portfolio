@@ -7,7 +7,7 @@ This portfolio highlights a selection of my work, including SEO case studies, ke
 > Last updated: 2025-08-12
 
 ## 📂 Featured Case Studies
-- [B2B SaaS Traffic Growth](case-studies/b2b-saas/README.md) – 145% increase in organic sessions in 6 months.
+- [B2C Business Traffic Growth](case-studies/b2b-saas/README.md) – 145% increase in organic sessions in 6 months.
 - [Local Service Business](case-studies/local-service/README.md) – 300% increase in leads with on-page + GBP optimisation.
 
 ## 🛠 Skills
