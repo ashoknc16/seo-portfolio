@@ -48,7 +48,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 - Knowledge of CSS and Java Script.
 
 ## 🧰 Tools & Scripts
-- [Content Title Generator](tools-and-scripts/content_idea_generator.py)
+- [Content Title Generator](tools-and-scripts/content-title-generator.md)
 - [Competitor URL Scraping](tools-and-scripts/competitor_tracker.py)
 - [Automated Offline Conversion Tracking for Google Ads using Zapier](tools-and-scripts/offline_conversion)
 
