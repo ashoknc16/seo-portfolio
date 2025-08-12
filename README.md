@@ -21,6 +21,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 [![Reviving an Edu-Tech Website Post-Google Core Update](https://img.shields.io/badge/Reviving%20an%20Edu--Tech%20Website%20Post--Google%20Core%20Update-28a745?style=for-the-badge&logo=google&logoColor=white)](case-studies/local-service/README.md)
 
+
 ## 🧰 Tools & Scripts
 
 [![Content Title Generator](https://img.shields.io/badge/Content%20Title%20Generator-0073e6?style=for-the-badge&logo=bookstack&logoColor=white)](tools-and-scripts/content-title-generator.md)
