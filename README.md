@@ -50,7 +50,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 ## 🧰 Tools & Scripts
 - [Content Title Generator](tools-and-scripts/content-title-generator.md)
 - [Competitor URL Scraping Tool](tools-and-scripts/competitor-scraping-tool.md)
-- [Automated Offline Conversion Tracking for Google Ads using Zapier](tools-and-scripts/offline_conversion)
+- [Automated Offline Conversion Tracking for Google Ads using Zapier](tools-and-scripts/offline_conversion.md)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/ashok-raj-v-/) • [Email](mailto:ashyvc@gmail.com)
