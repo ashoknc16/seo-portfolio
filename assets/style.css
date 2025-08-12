@@ -1,0 +1,5 @@
+body{max-width:960px;margin:0 auto;padding:24px;line-height:1.6}
+.site-header h1{margin:0 0 4px}
+.site-header p{margin:0 0 12px;opacity:.8}
+.content img{max-width:100%;height:auto}
+.badge-list a{display:block;margin:10px 0;text-decoration:none}
