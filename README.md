@@ -18,13 +18,16 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 ## 📂 Featured Case Studies
 
 [![B2C Business Traffic Growth](https://img.shields.io/badge/B2C%20Business%20Traffic%20Growth-0073e6?style=for-the-badge&logo=googleanalytics&logoColor=white)](case-studies/b2b-saas/README.md)
+
 [![Reviving an Edu-Tech Website Post-Google Core Update](https://img.shields.io/badge/Reviving%20an%20Edu--Tech%20Website%20Post--Google%20Core%20Update-28a745?style=for-the-badge&logo=googlesearchconsole&logoColor=white)](case-studies/local-service/README.md)
 
 ## 🧰 Tools & Scripts
 
-[![Content Title Generator](https://img.shields.io/badge/Content%20Title%20Generator-0073e6?style=for-the-badge&logo=markdown&logoColor=white)](tools-and-scripts/content-title-generator.md)
-[![Competitor URL Scraping Tool](https://img.shields.io/badge/Competitor%20URL%20Scraping%20Tool-28a745?style=for-the-badge&logo=markdown&logoColor=white)](tools-and-scripts/competitor-scraping-tool.md)
-[![Google Ads Offline Conversion Automation](https://img.shields.io/badge/Google%20Ads%20Offline%20Conversion%20Automation-ff6600?style=for-the-badge&logo=googleads&logoColor=white)](tools-and-scripts/offline_conversion.md)
+[![Content Title Generator](https://img.shields.io/badge/-CONTENT%20TITLE%20GENERATOR-007ACC?style=for-the-badge&logo=minds&logoColor=white)](tools-and-scripts/content-title-generator.md)  
+
+[![Competitor URL Scraping Tool](https://img.shields.io/badge/-COMPETITOR%20URL%20SCRAPING%20TOOL-4CAF50?style=for-the-badge&logo=minds&logoColor=white)](tools-and-scripts/competitor-scraping-tool.md)  
+
+[![Google Ads Offline Conversion Automation](https://img.shields.io/badge/-GOOGLE%20ADS%20OFFLINE%20CONVERSION%20AUTOMATION-FF5722?style=for-the-badge&logo=appveyor&logoColor=white)](tools-and-scripts/offline_conversion.md)
 
 ## 💼 Clients worked for : Brand Owner
 
