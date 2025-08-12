@@ -48,30 +48,9 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 ## 🧰 Tools & Scripts
 
-<h2>🧰 Tools & Scripts</h2>
-
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="tools-and-scripts/content-title-generator.md">
-        <img src="https://img.icons8.com/color/48/task.png" width="36" alt="Content Title Generator"><br/>
-        Content Title Generator
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="tools-and-scripts/competitor-scraping-tool.md">
-        <img src="https://img.icons8.com/color/48/compare.png" width="36" alt="Competitor URL Scraping Tool"><br/>
-        Competitor URL Scraping Tool
-      </a>
-    </td>
-    <td align="center" width="260">
-      <a href="tools-and-scripts/offline_conversion.md">
-        <img src="https://img.icons8.com/color/48/automation.png" width="36" alt="Google Ads Offline Conversion Automation"><br/>
-        Google Ads Offline Conversion Automation
-      </a>
-    </td>
-  </tr>
-</table>
+[![Content Title Generator](https://img.shields.io/badge/Content%20Title%20Generator-0073e6?style=for-the-badge&logo=markdown&logoColor=white)](tools-and-scripts/content-title-generator.md)
+[![Competitor URL Scraping Tool](https://img.shields.io/badge/Competitor%20URL%20Scraping%20Tool-28a745?style=for-the-badge&logo=markdown&logoColor=white)](tools-and-scripts/competitor-scraping-tool.md)
+[![Google Ads Offline Conversion Automation](https://img.shields.io/badge/Google%20Ads%20Offline%20Conversion%20Automation-ff6600?style=for-the-badge&logo=googleads&logoColor=white)](tools-and-scripts/offline_conversion.md)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/ashok-raj-v-/) • [Email](mailto:ashyvc@gmail.com)
