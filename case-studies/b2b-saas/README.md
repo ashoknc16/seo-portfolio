@@ -4,9 +4,13 @@
 When we started in April 2021, the client’s website had little to no organic traction. Despite having a few blog posts published, these weren’t optimised for search engines and failed to capture qualified organic traffic.
 
 ## Before
-[Traffic Growth Graph] <img width="604" height="328" alt="image" src="https://github.com/user-attachments/assets/1026c5ba-a661-41b2-b719-ede9a2f183ff" />
+[Traffic Growth Graph] 
 
-[Page Speed Metrics ] <img width="677" height="678" alt="image" src="https://github.com/user-attachments/assets/fa2c60ce-23b1-4f61-8609-6f3febe1237a"/>
+<img width="604" height="328" alt="image" src="https://github.com/user-attachments/assets/1026c5ba-a661-41b2-b719-ede9a2f183ff" />
+
+[Page Speed Metrics ] 
+
+<img width="677" height="678" alt="image" src="https://github.com/user-attachments/assets/fa2c60ce-23b1-4f61-8609-6f3febe1237a"/>
 
 ## Goals
 - Grow qualified organic sessions
