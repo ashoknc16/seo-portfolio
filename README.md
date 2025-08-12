@@ -19,6 +19,12 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 - [B2C Business Traffic Growth](case-studies/b2b-saas/README.md) – 145% increase in organic sessions in 6 months.
 - [Reviving an Edu-Tech Website Post-Google Core Update](case-studies/local-service/README.md) – 20% month-over-month growth.
 
+## 🧰 Tools & Scripts
+
+[![Content Title Generator](https://img.shields.io/badge/Content%20Title%20Generator-0073e6?style=for-the-badge&logo=markdown&logoColor=white)](tools-and-scripts/content-title-generator.md)
+[![Competitor URL Scraping Tool](https://img.shields.io/badge/Competitor%20URL%20Scraping%20Tool-28a745?style=for-the-badge&logo=markdown&logoColor=white)](tools-and-scripts/competitor-scraping-tool.md)
+[![Google Ads Offline Conversion Automation](https://img.shields.io/badge/Google%20Ads%20Offline%20Conversion%20Automation-ff6600?style=for-the-badge&logo=googleads&logoColor=white)](tools-and-scripts/offline_conversion.md)
+
 ## 💼 Clients worked for : Brand Owner
 
 ## 1. Mopar P&S - 10 International Markets - UK, DE, ES, FR, PT , IT, BE/NL , BE/FR , AT , PL
@@ -45,12 +51,6 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 - Reporting and Analytics
 - Website Architecture Development
 - Knowledge of CSS and Java Script.
-
-## 🧰 Tools & Scripts
-
-[![Content Title Generator](https://img.shields.io/badge/Content%20Title%20Generator-0073e6?style=for-the-badge&logo=markdown&logoColor=white)](tools-and-scripts/content-title-generator.md)
-[![Competitor URL Scraping Tool](https://img.shields.io/badge/Competitor%20URL%20Scraping%20Tool-28a745?style=for-the-badge&logo=markdown&logoColor=white)](tools-and-scripts/competitor-scraping-tool.md)
-[![Google Ads Offline Conversion Automation](https://img.shields.io/badge/Google%20Ads%20Offline%20Conversion%20Automation-ff6600?style=for-the-badge&logo=googleads&logoColor=white)](tools-and-scripts/offline_conversion.md)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/ashok-raj-v-/) • [Email](mailto:ashyvc@gmail.com)
