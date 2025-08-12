@@ -1,4 +1,4 @@
-## Case Study: Reviving an Edu-Tech Website Post-Google Core Update
+## Case Study: Reviving an Client Website Post-Google Core Update
 
 ## - About the Client
 An established Edu-Tech platform with 7+ years in the industry, consistently growing its organic visibility by publishing high-quality daily content. Over time, they successfully outranked major competitors and secured top positions in their niche.
