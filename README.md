@@ -48,9 +48,10 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 - Knowledge of CSS and Java Script.
 
 ## 🧰 Tools & Scripts
-- [Content Title Generator](tools-and-scripts/content-title-generator.md)
-- [Competitor URL Scraping Tool](tools-and-scripts/competitor-scraping-tool.md)
-- [Automated Offline Conversion Tracking for Google Ads using Zapier](tools-and-scripts/offline_conversion.md)
+
+[<img src="https://img.icons8.com/color/48/000000/task.png" alt="Content Title Generator" width="30"/>](tools-and-scripts/content-title-generator.md)
+[<img src="https://img.icons8.com/color/48/000000/compare.png" alt="Competitor URL Scraping Tool" width="30"/>](tools-and-scripts/competitor-scraping-tool.md)
+[<img src="https://img.icons8.com/color/48/000000/automation.png" alt="Google Ads Offline Conversion Automation" width="30"/>](tools-and-scripts/offline_conversion.md)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/ashok-raj-v-/) • [Email](mailto:ashyvc@gmail.com)
