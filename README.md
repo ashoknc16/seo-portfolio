@@ -25,7 +25,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 <img width="318" height="307" alt="image" src="https://github.com/user-attachments/assets/4bd2de1e-eb10-4a0d-b742-4bdae6838be0" />
 
-## 2. Alfa Romeo - 13 International Markets - UK, DE, ES, FR, PT , IT, BE/NL , BE/FR , AT , PL
+## 2. Alfa Romeo - 10 International Markets - UK, DE, ES, FR, PT , IT, BE/NL , BE/FR , AT , PL
 
 <img width="318" height="307" alt="current-badge_457d965994803bd415fc9735d023d1eb" src="https://github.com/user-attachments/assets/3225d6a9-eca6-4665-887b-dba708172e98" />
 
