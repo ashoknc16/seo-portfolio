@@ -22,3 +22,5 @@ It fetches **real Google Autocomplete suggestions** via SerpAPI and uses **OpenA
 Install dependencies:
 ```bash
 pip install serpapi openai
+
+Apply standard landing page theme to Content Title Generator
