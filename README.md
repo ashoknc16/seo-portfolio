@@ -49,7 +49,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 ## 🧰 Tools & Scripts
 - [Content Title Generator](tools-and-scripts/content-title-generator.md)
-- [Competitor URL Scraping](tools-and-scripts/competitor_tracker.py)
+- [Competitor URL Scraping](tools-and-scripts/competitor-scraping-tool.md)
 - [Automated Offline Conversion Tracking for Google Ads using Zapier](tools-and-scripts/offline_conversion)
 
 ## 📫 Contact
