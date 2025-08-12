@@ -1,6 +1,6 @@
-# SEO Portfolio
+# SEO Portfolio - Ashok Raj Vijayakumar
 
-Hi, I'm Ashy — an SEO specialist from the UK with experience in content strategy, technical optimisation, and data-driven growth campaigns.  
+Hi, I'm Ashok Raj Vijayakumar — an SEO specialist from the UK with experience over 5 years in organic search , paid search , content strategy, technical optimisation, and data-driven growth campaigns.  
 This portfolio showcases selected SEO case studies, keyword research projects, technical audits, and scripts I've developed for automation.
 
 > Last updated: 2025-08-12
@@ -15,11 +15,20 @@ This portfolio showcases selected SEO case studies, keyword research projects, t
 - On-Page & Content Optimisation
 - Link Building Strategy
 - Data Analysis (GA4, GSC, Python, Excel)
+- Technical SEO Audit
+- Competitor Research and Analysis
+- Keyword Research Optimisation
+- Optimised LLM-driven workflows
+- Backlinks Analysis
+- Traditional SEO , AEO , GEO
+- Content Strategy Development
+- Reporting and Analytics
+- Website Architecture Development
+- Knowledge of CSS and Java Script.
 
 ## 🧰 Tools & Scripts
-- [Sitemap Checker](tools-and-scripts/sitemap_checker.py)
-- [SERP Tracking Notebook](tools-and-scripts/serp_tracking_notebook.ipynb)
-- [Page Titles Auditor](tools-and-scripts/page_titles_auditor.py)
+- [Content Title Generator](tools-and-scripts/content_idea_generator.py)
+- [Competitor URL Scraping](tools-and-scripts/competitor_tracker.py)
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/YOUR-LINK) • [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/ashok-raj-v-/) • [Email](mailto:ashyvc@gmail.com)
