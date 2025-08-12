@@ -1,3 +1,5 @@
-title: "SEO Portfolio – Ashok Raj Vijayakumar"
-description: "Work Experience, Case studies, technical audits, and automation scripts."
+title: "Ashok Raj Vijayakumar – Portfolio"
+description: "SEO case studies, audits, and automation."
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
