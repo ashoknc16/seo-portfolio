@@ -36,7 +36,7 @@ Refreshed outdated content to include the latest information and maintain evergr
 Balanced long-form and targeted-topic articles to improve competitiveness
 
 3. Strategic Link Building
-Leveraged a vetted inventory of 50,000+ niche-relevant domains
+Leveraged a vetted inventory niche-relevant domains
 Focused on backlinks from DA 40–50+ sites to strengthen authority
 Built links from both Edu-Tech and high-authority industry publications
 
