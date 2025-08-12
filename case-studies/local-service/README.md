@@ -1,23 +1,46 @@
-# Case Study: Local Service Business SEO
+- Case Study: Reviving an Edu-Tech Website Post-Google Core Update
 
-## Overview
-Optimised an electrician's website in Manchester for high-intent local keywords.
+- About the Client
+An established Edu-Tech platform with 7+ years in the industry, consistently growing its organic visibility by publishing high-quality daily content. Over time, they successfully outranked major competitors and secured top positions in their niche.
 
-## Goals
-- Increase local organic visibility
-- Generate more calls from organic search
+- The Challenge
+In May 2020, Google’s Broad Core Update hit the site hard, causing a significant decline in organic traction. With their previous SEO agency unable to pinpoint the cause or reverse the drop, the client turned to us.
 
-## Actions Taken
-- Comprehensive keyword mapping & on-page optimisation
-- Created service area pages targeting "[service] in [location]"
-- Implemented `LocalBusiness` schema markup
-- Built citations and optimised Google Business Profile
+Their goal:
 
-## Results (6 Months)
-- Organic sessions: +212%
-- Calls from organic: +305%
-- Keywords in top 3 positions: from 4 → 28
+- Recover from the update’s impact
 
-> Replace the placeholder chart image with your own before/after analytics screenshots.
+- Achieve 20% organic traffic growth month-over-month
 
-![Traffic Growth](before-after-traffic.png)
+- Regain industry dominance before the end of 2020
+
+- With only a few months left to hit their annual goal of 1 million organic users, time was against us.
+
+- Our Strategy
+
+We adopted a 360° SEO recovery plan combining technical, on-page, content, and authority-building improvements.
+
+1. On-Page SEO Optimisation
+Refined meta titles, descriptions, and schema markup for improved SERP click-through rates
+Added author bios with links to verified social profiles for credibility
+Boosted site speed to meet Core Web Vitals benchmarks
+Implemented AMP for faster mobile experience
+
+2. Content Audit & Optimisation
+Analysed competitors and identified high-traffic potential topics for new content
+Refreshed outdated content to include the latest information and maintain evergreen relevance
+Balanced long-form and targeted-topic articles to improve competitiveness
+
+3. Strategic Link Building
+Leveraged a vetted inventory of 50,000+ niche-relevant domains
+Focused on backlinks from DA 40–50+ sites to strengthen authority
+Built links from both Edu-Tech and high-authority industry publications
+
+- Results
+Just one month after implementing our recovery plan, the website’s organic traffic began climbing steadily — achieving the targeted 20% MoM growth.
+
+- Key Wins:
+Rapid recovery post-Google update
+
+- Sustained traffic growth
+Reduced SEO costs by 70% compared to the previous agency by managing activities fully in-house
