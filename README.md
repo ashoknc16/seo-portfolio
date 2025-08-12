@@ -1,4 +1,4 @@
-# SEO Portfolio - Ashok Raj Vijayakumar
+# Ashok Raj Vijayakumar - SEO Account Manager
 
 Results-driven SEO Specialist with 5+ years’ experience across both agency and in-house roles, delivering measurable growth in organic search, PPC performance, and overall website optimisation. Expert in SEO audits, keyword research, technical SEO, and crafting on-page/off-page strategies that secure featured snippets (AEO) and boost local visibility (GEO). Skilled in leveraging Python automation to streamline reporting, analyse performance data, and monitor site health. Proven track record in driving high-quality lead generation, improving search rankings, and building long-term client relationships through strategic, data-led campaigns.
 
