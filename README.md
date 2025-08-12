@@ -58,6 +58,10 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 - Knowledge of CSS and Java Script.
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/ashok-raj-v-/) • [Email](mailto:ashyvc@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-raj-v-/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashyvc@gmail.com)
+
 
 > Last updated: 2025-08-12
