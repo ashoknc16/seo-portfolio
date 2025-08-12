@@ -29,7 +29,6 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 <img width="318" height="307" alt="current-badge_457d965994803bd415fc9735d023d1eb" src="https://github.com/user-attachments/assets/3225d6a9-eca6-4665-887b-dba708172e98" />
 
-
 ## 🛠 Skills
 - Keyword Research & Mapping
 - Technical SEO (Audits, Fixes, Schema)
