@@ -48,12 +48,30 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 ## 🧰 Tools & Scripts
 
-[<img src="https://img.icons8.com/color/48/000000/task.png" alt="Content Title Generator" width="30"/>](tools-and-scripts/content-title-generator.md)  
+<h2>🧰 Tools & Scripts</h2>
 
-[<img src="https://img.icons8.com/color/48/000000/compare.png" alt="Competitor URL Scraping Tool" width="30"/>](tools-and-scripts/competitor-scraping-tool.md)  
-
-[<img src="https://img.icons8.com/color/48/000000/automation.png" alt="Google Ads Offline Conversion Automation" width="30"/>](tools-and-scripts/offline_conversion.md)
-
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="tools-and-scripts/content-title-generator.md">
+        <img src="https://img.icons8.com/color/48/task.png" width="36" alt="Content Title Generator"><br/>
+        Content Title Generator
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="tools-and-scripts/competitor-scraping-tool.md">
+        <img src="https://img.icons8.com/color/48/compare.png" width="36" alt="Competitor URL Scraping Tool"><br/>
+        Competitor URL Scraping Tool
+      </a>
+    </td>
+    <td align="center" width="260">
+      <a href="tools-and-scripts/offline_conversion.md">
+        <img src="https://img.icons8.com/color/48/automation.png" width="36" alt="Google Ads Offline Conversion Automation"><br/>
+        Google Ads Offline Conversion Automation
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/ashok-raj-v-/) • [Email](mailto:ashyvc@gmail.com)
