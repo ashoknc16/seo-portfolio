@@ -1,7 +1,8 @@
 # SEO Portfolio - Ashok Raj Vijayakumar
 
-Hi, I'm Ashok Raj Vijayakumar — an SEO specialist from the UK with experience over 5 years in organic search , paid search , content strategy, technical optimisation, and data-driven growth campaigns.  
-This portfolio showcases selected SEO case studies, keyword research projects, technical audits, and scripts I've developed for automation.
+Hi, I’m Ashok Raj Vijayakumar, an SEO specialist based in the UK with over 5 years of experience driving growth through organic search, paid search, content strategy, technical optimisation, and data-led campaigns.
+
+This portfolio highlights a selection of my work, including SEO case studies, keyword research projects, technical audits, and custom Python scripts I’ve developed to automate and scale optimisation tasks.
 
 > Last updated: 2025-08-12
 
