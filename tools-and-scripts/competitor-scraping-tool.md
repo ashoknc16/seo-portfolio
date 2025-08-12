@@ -1,3 +1,6 @@
+layout: default
+title: Content Title Generator
+
 # 🕵️‍♂️ Competitor URL Scraping Tool – Static Pages
 
 This Python script crawls through all **internal static pages** of a target website and lists them.  
