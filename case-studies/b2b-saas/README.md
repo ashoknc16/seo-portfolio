@@ -30,7 +30,7 @@ The client’s website had little to no organic traction. Despite having a few b
 
 - Traffic May 2021 <img width="732" height="418" alt="image" src="https://github.com/user-attachments/assets/f94320d8-8a35-4a4a-a062-497d07d92cd6" />
 
-- Page Speed Metrics <img width="494" height="690" alt="image" src="https://github.com/user-attachments/assets/9e842c15-448e-496b-a1d4-11239ec058e5" />
+- Page Speed Metrics 2021 <img width="494" height="690" alt="image" src="https://github.com/user-attachments/assets/9e842c15-448e-496b-a1d4-11239ec058e5" />
 
 
 - Organic traffic growth: From ~85/month to ~1,600/month (≈ 1780% increase)
