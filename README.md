@@ -8,7 +8,7 @@ This portfolio highlights a selection of my work, including SEO case studies, ke
 
 ## 📂 Featured Case Studies
 - [B2C Business Traffic Growth](case-studies/b2b-saas/README.md) – 145% increase in organic sessions in 6 months.
-- [Local Service Business](case-studies/local-service/README.md) – 300% increase in leads with on-page + GBP optimisation.
+- [Reviving an Edu-Tech Website Post-Google Core Update](case-studies/local-service/README.md) – 20% month-over-month growth.
 
 ## 🛠 Skills
 - Keyword Research & Mapping
