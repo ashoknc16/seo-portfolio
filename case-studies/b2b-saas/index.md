@@ -1,3 +1,8 @@
+---
+layout: default
+title: Case Study – Client 1
+---
+
 # Case Study: Client 1 — Increased Organic Search Traffic by 10x
 
 ## Challenge
