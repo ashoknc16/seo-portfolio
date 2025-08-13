@@ -26,7 +26,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 [![Content Title Generator](https://img.shields.io/badge/Content%20Title%20Generator-0073e6?style=for-the-badge&logo=bookstack&logoColor=white)](tools-and-scripts/content-title-generator.md)
 
-[![Competitor URL Scraping Tool](https://img.shields.io/badge/Competitor%20URL%20Scraping%20Tool-28a745?style=for-the-badge&logo=webscraper&logoColor=white)](tools-and-scripts/competitor-scraping-tool.md)
+[![Competitor Research & URL Scraper](https://img.shields.io/badge/Competitor%20Research%20%26%20URL%20Scraper-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)](tools-and-scripts/competitor-research-url-scraper.md)
 
 [![Google Ads Offline Conversion Automation](https://img.shields.io/badge/Google%20Ads%20Offline%20Conversion%20Automation-ff6600?style=for-the-badge&logo=googleads&logoColor=white)](tools-and-scripts/offline_conversion.md)
 
