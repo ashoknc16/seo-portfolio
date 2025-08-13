@@ -17,7 +17,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 ## 📂 Featured Case Studies
 
-[![B2C Business Traffic Growth](https://img.shields.io/badge/B2C%20Business%20Traffic%20Growth-0073e6?style=for-the-badge&logo=googleanalytics&logoColor=white)](case-studies/b2b-saas/)
+[![B2B Business Traffic Growth](https://img.shields.io/badge/B2C%20Business%20Traffic%20Growth-0073e6?style=for-the-badge&logo=googleanalytics&logoColor=white)](/seo-portfolio/case-studies/b2b-saas/)
 
 [![Reviving an Edu-Tech Website Post-Google Core Update](https://img.shields.io/badge/Reviving%20an%20Edu--Tech%20Website%20Post--Google%20Core%20Update-28a745?style=for-the-badge&logo=google&logoColor=white)](case-studies/local-service/README.md)
 
