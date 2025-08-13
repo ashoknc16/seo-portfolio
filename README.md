@@ -30,15 +30,19 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 [![Google Ads Offline Conversion Automation](https://img.shields.io/badge/Google%20Ads%20Offline%20Conversion%20Automation-ff6600?style=for-the-badge&logo=googleads&logoColor=white)](tools-and-scripts/offline_conversion.md)
 
-## 💼 Clients worked for : Brand Owner
+## 💼 Clients worked for : Brand Owner - Web
 
 ## 1. Mopar P&S - 10 International Markets - UK, DE, ES, FR, PT , IT, BE/NL , BE/FR , AT , PL
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4bd2de1e-eb10-4a0d-b742-4bdae6838be0" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/4bd2de1e-eb10-4a0d-b742-4bdae6838be0" />
 
 ## 2. Alfa Romeo - 10 International Markets - UK, DE, ES, FR, PT , IT, BE/NL , BE/FR , AT , PL
 
-<img width="300" height="300" alt="current-badge_457d965994803bd415fc9735d023d1eb" src="https://github.com/user-attachments/assets/3225d6a9-eca6-4665-887b-dba708172e98" />
+<img width="250" height="250" alt="current-badge_457d965994803bd415fc9735d023d1eb" src="https://github.com/user-attachments/assets/3225d6a9-eca6-4665-887b-dba708172e98" />
+
+## 3. National Claims - UK 
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f55d9d8e-bf9e-4137-a5f1-81713e4349ea" />
 
 ## 🛠 Skills
 - Keyword Research & Mapping
