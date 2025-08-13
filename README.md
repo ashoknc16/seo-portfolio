@@ -42,7 +42,7 @@ Results-driven SEO Specialist with 5+ years’ experience across both agency and
 
 ## 3. National Claims - UK 
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f55d9d8e-bf9e-4137-a5f1-81713e4349ea" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f55d9d8e-bf9e-4137-a5f1-81713e4349ea" />
 
 ## 🛠 Skills
 - Keyword Research & Mapping
