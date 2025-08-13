@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Content Title Generator
+permalink: /tools-and-scripts/content-title-generator/
 ---
 
 # 📝 Content Title Generator
