@@ -1,3 +1,8 @@
+---
+layout: default
+title: Content Title Generator
+---
+
 # 📝 Content Title Generator
 
 This Python script automates the process of generating **SEO-friendly content titles** based on keyword research data.  
